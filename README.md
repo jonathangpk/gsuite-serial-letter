@@ -5,7 +5,7 @@ G Suite Add-On for creating Serial Letters using Google Spreadsheets and Google 
 - Import your user data as csv in Google Spreadsheets
 - You can create Letter Templates in Google Docs with the syntax `{{ key }}` where `key` corresponds to the column of the csv file
 - The Add-On creates a folder with all the personalized letters as pdfs' that you can download or share
-- The Add-On interface is currently in german, since it is used in a german organisation, feel free to fork it and change it
+- The Add-On interface is currently in german, since it is used in a german organisation, feel free to fork and change it
 - Not in the Chrome Web store because you have to pay for it
 
 ## Getting Started
